@@ -1,5 +1,10 @@
 package com.miditec.DynamicJasperBestPractices.examples;
 
+/*
+ *  THIS IS THE MAIN CLASS TO RUN
+ */
+
+
   /*
    * DynamicJasper: A library for creating reports dynamically by specifying
    * columns, groups, styles, etc. at runtime. It also saves a lot of development
