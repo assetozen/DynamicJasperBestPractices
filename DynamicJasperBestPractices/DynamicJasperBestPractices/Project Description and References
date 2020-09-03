@@ -1,0 +1,19 @@
+-------------------------Description ---------------------------
+It is a sample report generating dynamic jasper project 
+
+ALWAYS RUN THE ONE WITH MAIN METHOD:- FastReportTest CLASS
+
+
+
+
+=========================================== Links used for this project ===================================================================================
+
+Main Dynamic Jasper page:- http://dynamicjasper.com/
+	Docs and Examples:- 									http://dynamicjasper.com/documentation-examples/
+	Took the first Example from this link(FastReportTest): 	http://dynamicjasper.com/documentation-examples/getting-started/
+	Class lists(source codes):- 							http://dynamicjasper.com/docs/current/xref-test/ar/com/fdvs/dj/test/package-summary.html
+															http://dynamicjasper.com/docs/3.x/xref-test/ar/com/fdvs/dj/test/domain/package-summary.html
+	
+
+
+
